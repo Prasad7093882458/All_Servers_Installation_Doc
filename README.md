@@ -1,1 +1,1 @@
-this repository for installtion of tools
+this repository is for installtion of tools information and commands.
